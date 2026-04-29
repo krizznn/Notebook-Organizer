@@ -78,7 +78,7 @@ notebook-organizer/
 
 ```bash
 # 1. Клонируй репозиторий
-git clone https://github.com/YOUR\\\_USERNAME/notebook-organizer.git
+git clone https://github.com/krizznn/Notebook-Organizer.git
 cd notebook-organizer
 
 # 2. Запусти приложение
